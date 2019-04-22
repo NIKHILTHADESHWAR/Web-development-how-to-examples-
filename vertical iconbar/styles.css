@@ -1,0 +1,28 @@
+body
+{
+	margin: 0;
+}
+
+#icon-bar-vertical .icon-vertical
+{
+	display: block;
+	width: 100%;
+}
+
+#icon-bar-vertical .icon-vertical
+{
+	width: 20%;
+	background: #90cf21;
+	padding: 3rem 0;
+	font-size: 2rem;
+	color: white;
+	text-align: center;
+	transition: all 0.3s ease;
+	text-decoration: none;
+}
+
+#icon-bar-vertical .icon-vertical:hover
+{
+	background: #000;
+	transition: all 0.3s ease;
+}
